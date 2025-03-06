@@ -45,7 +45,7 @@
     
     if($_GET['page'] == 'mahasiswa') {
 ?>
-    <p class="text-3xl text-center my-10 font-bold">Tabel Mahasiswa</p>
+    <p class="text-3xl text-center my-10 font-bold">Tabel Mahasiswa Perubahan</p>
 
     <div class="container mx-auto px-8">
         <div class="relative overflow-x-auto p-4 shadow-md sm:rounded-lg">
