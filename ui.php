@@ -2,7 +2,7 @@
 
     if($_GET['page'] == 'home') {
 ?>
-    <p class="text-3xl text-center my-10 font-bold">Halaman Utama</p>
+    <p class="text-3xl text-center my-10 font-bold">Halaman Utama Perubahan</p>
 
     <div class="container mx-auto px-8 mb-10">
         <div class="grid grid-cols-3 gap-4 flex justify-center">
